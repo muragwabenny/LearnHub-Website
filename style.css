@@ -1,28 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+
 .secone{
     background-color: blue;
     width: 100%;
     height: 200px;
     gap: 7px;
     display: flex;
-    flex: 1px;
+    /* flex: 1px; */
+    padding: 10px;
+    /* padding-left: 500px; */
 }
 
 .divone{
     background-color: brown;
-    height: 100px;
-    width: 100px;
+    height: 150px;
+    width: 100%;
 }
 
 .divtwo{
     background-color: rgb(165, 142, 42);
-    height: 100px;
-    width: 100px;
+    height: 150px;
+    width: 100%;
 }
 
 
 .divthree{
     background-color: rgb(42, 165, 50);
-    height: 100px;
-    width: 100px;
+    height: 150px;
+    width: 100%;
 }
 
